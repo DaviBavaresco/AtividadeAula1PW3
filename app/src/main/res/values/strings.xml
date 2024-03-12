@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AtividadeAula1</string>
+    <string name="dados">Informe o ano em que nasceu</string>
+    <string name="infoIdade">Informe o ano em que nasceu</string>
+    <string name="calcular">Calcular</string>
+    <string name="idade">Sua idade</string>
+    <string name="voltar">Click para voltar</string>
+</resources>
